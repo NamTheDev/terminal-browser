@@ -1,0 +1,17 @@
+{
+  "name": "terminal-browser",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "cli-markdown": "^3.4.0",
+    "dotenv": "^16.4.7",
+    "googleapis": "^144.0.0"
+  }
+}
