@@ -1,5 +1,7 @@
 {
   "name": "terminal-browser",
+  "version": "1.0.0",
+  "description": "Terminal browser for searching without using web UI!",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {
